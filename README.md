@@ -1,5 +1,5 @@
 # Fashion-Blog
-Deployed Site: Kashmir BLOGLIFE
+Deployed Site: http://kashmirsblog.freevar.com/
 
 A Blog Built from A WordPress Template
   ○ Fashionable and modern CSS
